@@ -1,0 +1,4 @@
+name: ClashGame
+author: AlphaHelix
+version: 1.0
+main: de.alpha.clashgame.Core
